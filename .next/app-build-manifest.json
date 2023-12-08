@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/overview/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/overview/page.css",
+      "static/chunks/app/overview/page.js"
+    ],
+    "/fundamentals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/fundamentals/page.css",
+      "static/chunks/app/fundamentals/page.js"
+    ],
+    "/examples/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/examples/page.css",
+      "static/chunks/app/examples/page.js"
+    ],
+    "/forms/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/forms/page.css",
+      "static/chunks/app/forms/page.js"
+    ],
+    "/best-practices/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/best-practices/page.css",
+      "static/chunks/app/best-practices/page.js"
+    ],
+    "/component/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/component/page.css",
+      "static/chunks/app/component/page.js"
+    ]
+  }
+}

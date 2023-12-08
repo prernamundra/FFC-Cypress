@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/forms/page": "app/forms/page.js",
+  "/component/page": "app/component/page.js",
+  "/examples/page": "app/examples/page.js",
+  "/best-practices/page": "app/best-practices/page.js",
+  "/fundamentals/page": "app/fundamentals/page.js",
+  "/overview/page": "app/overview/page.js"
+}
